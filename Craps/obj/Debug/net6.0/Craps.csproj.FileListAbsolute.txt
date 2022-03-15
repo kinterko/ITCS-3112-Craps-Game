@@ -1,0 +1,15 @@
+D:\Microsfot Visual Studio\Craps\Craps\bin\Debug\net6.0\Craps.exe
+D:\Microsfot Visual Studio\Craps\Craps\bin\Debug\net6.0\Craps.deps.json
+D:\Microsfot Visual Studio\Craps\Craps\bin\Debug\net6.0\Craps.runtimeconfig.json
+D:\Microsfot Visual Studio\Craps\Craps\bin\Debug\net6.0\Craps.dll
+D:\Microsfot Visual Studio\Craps\Craps\bin\Debug\net6.0\ref\Craps.dll
+D:\Microsfot Visual Studio\Craps\Craps\bin\Debug\net6.0\Craps.pdb
+D:\Microsfot Visual Studio\Craps\Craps\obj\Debug\net6.0\Craps.csproj.AssemblyReference.cache
+D:\Microsfot Visual Studio\Craps\Craps\obj\Debug\net6.0\Craps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsfot Visual Studio\Craps\Craps\obj\Debug\net6.0\Craps.AssemblyInfoInputs.cache
+D:\Microsfot Visual Studio\Craps\Craps\obj\Debug\net6.0\Craps.AssemblyInfo.cs
+D:\Microsfot Visual Studio\Craps\Craps\obj\Debug\net6.0\Craps.csproj.CoreCompileInputs.cache
+D:\Microsfot Visual Studio\Craps\Craps\obj\Debug\net6.0\Craps.dll
+D:\Microsfot Visual Studio\Craps\Craps\obj\Debug\net6.0\ref\Craps.dll
+D:\Microsfot Visual Studio\Craps\Craps\obj\Debug\net6.0\Craps.pdb
+D:\Microsfot Visual Studio\Craps\Craps\obj\Debug\net6.0\Craps.genruntimeconfig.cache
